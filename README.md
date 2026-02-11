@@ -1,7 +1,7 @@
 # Hi 👋, I'm Alok Gupta  
 
 🎓 B.Tech CSE Student | Aspiring Data Scientist  
-🌍 Future Italy 🇮🇹 Student (Planning for 2026)  
+🌍 Future Italy 🇮🇹 Student (Planning for 2029 
 🎥 Geopolitics & Documentary Content Creator (Upcoming)  
 💻 Tech Explorer | Crypto Curious | Dream Builder  
 
