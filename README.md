@@ -1,15 +1,13 @@
 # Hi 👋, I'm Alok Gupta  
 
 🎓 B.Tech CSE Student | Aspiring Data Scientist  
-🌍 Future Italy 🇮🇹 Student (Planning for 2029 
-🎥 Geopolitics & Documentary Content Creator (Upcoming)  
+
 💻 Tech Explorer | Crypto Curious | Dream Builder  
 
 ---
 
 ## 🔭 I’m currently working on:
-- Building my foundation in Computer Science  
-- Planning high-quality YouTube documentary content  
+- Building my foundation in Computer Science    
 - Exploring crypto & blockchain basics  
 
 ## 🌱 I’m currently learning:
@@ -35,12 +33,12 @@
 - Starting YouTube as a beginner  
 
 ## ⚡ Fun fact:
-I want to travel to Ladakh on bike 🏍️ and build a tech career in Europe 🇮🇹  
+I want to travel to Ladakh on bike 🏍️ and build a tech career in Europe 
 
 ## 📫 How to reach me:
-- 📧 Email: your-email@example.com  
+- 📧 Email: guptaalok357@gmail.com
 - 💼 LinkedIn: (Add your link)  
-- 📸 Instagram: (Add your link)
+- 📸 Instagram: @alokgupta01
 
 ---
 
